@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961843657797",
+    "project_id": "notspor-97f60",
+    "storage_bucket": "notspor-97f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961843657797:android:24a209fef951e8f0f0772c",
+        "android_client_info": {
+          "package_name": "com.example.hotel_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961843657797-2mfirc6i287pkqpg09n8id6p1q6nvgsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotel_data",
+            "certificate_hash": "60d8868cdbd473c51265fa2eb4c9f7102f46e947"
+          }
+        },
+        {
+          "client_id": "961843657797-vfao11egtu02cbn2hr26o14usj7kql67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_T2ugBL_o51XBmPCoQjLStLbtNb-LQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961843657797-vfao11egtu02cbn2hr26o14usj7kql67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

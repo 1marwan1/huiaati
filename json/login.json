@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "data": {
+        "driverAllData": {
+            "id": 1,
+            "name": "KJSUI",
+            "lastName": "CSOOPm",
+            "email": "VSZGCVW@gmail.com",
+            "mobile": "+9665248089479",
+            "storeId": 1,
+            "mobileToken": null,
+            "avatar": "https://source.unsplash.com/random/200x200?sig=0",
+            "address": "EPVNMYX,JBEJGAG,FTK,270",
+            "deliveryCompanyId": 1,
+            "currentLocation": null,
+            "status": "ACTIVE",
+            "createdAt": "2022-11-14T15:30:50.595Z",
+            "updatedAt": "2022-11-24T09:09:42.285Z",
+            "phoneOtp": ""
+        },
+        "otp": "807915"
+    },
+    "message": "Operation Successful"
+}

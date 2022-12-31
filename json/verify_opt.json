@@ -1,0 +1,85 @@
+{
+    "success": true,
+    "data": {
+        "driver": {
+            "id": 1,
+            "name": "KJSUI",
+            "lastName": "CSOOPm",
+            "email": "VSZGCVW@gmail.com",
+            "mobile": "+9665248089479",
+            "storeId": 1,
+            "avatar": "https://source.unsplash.com/random/200x200?sig=0", 
+            "address": "EPVNMYX,JBEJGAG,FTK,270",
+            "deliveryCompanyId": 1,
+            "currentLocation": null,
+            "status": "ACTIVE",
+            "createdAt": "2022-11-14T15:30:50.595Z",
+            "updatedAt": "2022-11-24T09:48:00.120Z",
+            "phoneOtp": "807915",
+            "shippings": [
+                {
+                    "id": 1,
+                    "cost": 26,
+                    "addressId": null,
+                    "status": "READY_TO_MOVE",
+                    "currentLocatrion": null,
+                    "driverId": 1,
+                    "deliveryCompanyId": 1,
+                    "orderId": 1,
+                    "deliveryDate": null,
+                    "deliveryTime": null,
+                    "createdAt": "2022-11-14T15:30:50.595Z",
+                    "updatedAt": "2022-11-16T13:18:13.226Z",
+                    "order": {
+                        "id": 1,
+                        "ref": "BSNEO79582",
+                        "orderDate": "2022-11-14T15:30:50.563Z",
+                        "status": "ASSGINED_TO_DRIVER",
+                        "messageTo": "ZUHQSECWIW",
+                        "messageText": "WVNPFZOGHBKTGPTCJETQFWNFHOTTQUKJQTJDLKHSEDDWKQWNOMSTEKHXDPDYYPNDJJETOBYIAUBEIUWVMGRNIZEQSYBYYMWPYNQLYDQHMFAFCQWPUWDVSJLBJSOIJLDCBSROUMDWSSHREVSRVITSVZ",
+                        "amount": 27,
+                        "tax": 0.015,
+                        "discount": 0,
+                        "cuponId": null,
+                        "customerId": 1,
+                        "storeId": 1,
+                        "type": "DELIVERY",
+                        "addressId": 1,
+                        "products": [
+                            {
+                                "price": 27,
+                                "eventId": null,
+                                "discount": 0,
+                                "quantity": 1,
+                                "eventName": "",
+                                "productId": 174,
+                                "totalAmount": 27
+                            },
+                            {
+                                "price": 27,
+                                "eventId": null,
+                                "discount": 0,
+                                "quantity": 1,
+                                "eventName": "",
+                                "productId": 139,
+                                "totalAmount": 27
+                            }
+                        ],
+                        "deliveryCost": 0,
+                        "estimateDate": "2022-11-14T15:30:50.563Z",
+                        "estimateTime": "10-12 AM",
+                        "createdAt": "2022-11-14T15:30:50.595Z",
+                        "updatedAt": "2022-11-16T13:18:13.230Z"
+                    }
+                }
+            ],
+            "DriverRating": [],
+            "deliveryCompany": {
+                "id": 1,
+                "name": "gala gala"
+            }
+        },
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjY5MjgzNDExLCJleHAiOjE2NzE4NzU0MTF9.86uM3UlSVvB7qcBIkMiHpMeyARKM2Vdm9fQ4Ks9Efio"
+    },
+    "message": "Operation Successful"
+}
